@@ -4,4 +4,4 @@
 
 [Autor](https://twitter.com/vivirenremoto)
 
-![Zelda Parallax](https://vivirenremoto.github.io/zelda_parallax/static/social.png)
+![Zelda Parallax](https://vivirenremoto.github.io/zelda_parallax/static/social.jpg)
